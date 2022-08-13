@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- <link rel="shortcut icon" href="images/star.png" type="favicon/ico" /> -->
 
-        <title>Itsourcecode Restaurant</title>
+        <title>Anu Restaurant</title>
 
        <link rel="stylesheet" href="{{ asset('frontend/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('frontend/css/font-awesome.min.css') }}">
@@ -62,7 +62,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <div class="" href="#">
-                        <h4>ITSOURCECODE RESTAURANT MANAGEMENT</h4>
+                        <h4>Anu RESTAURANT </h4>
                     </div>
                 </div>
 
@@ -292,8 +292,8 @@
                     <div class="col-xs-6 col-sm-6 dis-table-cell">
                         <div class="section-content">
                             <p>Purok Daisy, Brgy.Enclaro, Binalbagan, Negros Occidental, Philippines</p>
-                            <p>09123456789</p>
-                            <p>itsourcecode@gmail.com </p>
+                            <p>9361037878</p>
+                            <p>anurestaurnt@gmail.com </p>
                         </div>
                     </div>
                 </div>
